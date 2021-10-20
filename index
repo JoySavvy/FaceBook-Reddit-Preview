@@ -2,16 +2,16 @@
 <html lang="en"><head>
   <meta charset ="utf-8">
   <title>Going Live, Come say Hi</title>
-  <meta name="description" content="Is it party time? Come and watch joysavvy live now">
+  <meta name="og:description" content="Is it party time? Come and watch joysavvy live now">
   
   <meta name="og:card" content="player" />
-  <meta name="og:image" content="https://i.pinimg.com/564x/7b/cf/27/7bcf270a42161ce4a58fd148ed6077db.jpg" />
+  <meta name="og:image:secure_url" content="https://i.pinimg.com/564x/7b/cf/27/7bcf270a42161ce4a58fd148ed6077db.jpg" />
   <meta name="og:title" content="Imagining my world in the form of a video game, want to create with me? Stop by and say hi :)" />
   <meta name="og:description" content="Sims4 Not So Berry Challenge :)" />
-  <meta name="video_src" href="https://player.twitch.tv/?volume=0.34&autoplay=true&muted&channel=joysavvy&parent=facebook.com&parent=reddit.com" />
-  <meta name="video_width" content="700" />
-  <meta name="video_height" content="400" />
-  <meta name="video_type" content="application/x-shockwave-flash" />
+  <meta name="og:video:secure_url" href="https://player.twitch.tv/?volume=0.34&autoplay=true&muted&channel=joysavvy&parent=facebook.com&parent=reddit.com" />
+  <meta name="og:video:width" content="700" />
+  <meta name="og:video:height" content="400" />
+  <meta name="og:video" content="application/x-shockwave-flash" />
 
   <meta http-equiv="refresh" content="0;url=https://www.twitch.tv/joysavvy" />
 </head>
@@ -21,4 +21,5 @@
 
 </body>
 </html>
+
 
