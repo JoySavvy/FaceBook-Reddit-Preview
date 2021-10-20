@@ -4,13 +4,13 @@
   <title>Going Live, Come say Hi</title>
   <meta name="description" content="Is it party time? Come and see lol">
   
-  <meta name="twitter:card" content="player" />
-  <meta name="twitter:image" content="https://static-cdn.jtvnw.net/jtv_user_pictures/b36e1434-1bde-4a8f-a19f-842da8e85ccb-profile_image-70x70.png" />
-  <meta name="twitter:title" content="Sims4 Not So Berry Challenge, Come say hi" />
-  <meta name="twitter:description" content="Check out my latest stream :)" />
-  <meta name="twitter:player" content="https://player.twitch.tv/?volume=0.34&muted&channel=joysavvy&parent=cards-dev.twitter.com&parent=twitter.com&parent=cards-frame.twitter.com&parent=tweetdeck.twitter.com" />
-  <meta name="twitter:player:width" content="360" />
-  <meta name="twitter:player:height" content="200" />
+  <meta name="reddit:card" content="player" />
+  <meta name="reddit:image" content="https://static-cdn.jtvnw.net/jtv_user_pictures/b36e1434-1bde-4a8f-a19f-842da8e85ccb-profile_image-70x70.png" />
+  <meta name="reddit:title" content="Sims4 Not So Berry Challenge, Come say hi" />
+  <meta name="reddit:description" content="Check out my latest stream :)" />
+  <meta name="reddit:player" content="https://player.twitch.tv/?volume=0.34&muted&channel=joysavvy&parent=reddit.com" />
+  <meta name="reddit:player:width" content="360" />
+  <meta name="reddit:player:height" content="200" />
 
   <meta http-equiv="refresh" content="0;url=https://www.twitch.tv/joysavvy" />
 </head>
