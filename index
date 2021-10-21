@@ -5,12 +5,17 @@
   <meta property="og:description" content="Is it party time? Come and watch joysavvy live now">
   
   <meta property="og:card" content="player" />
-  <meta property="og:image:secure_url" content="https://static-cdn.jtvnw.net/jtv_user_pictures/b36e1434-1bde-4a8f-a19f-842da8e85ccb-profile_image-70x70.png" />
+  <meta property="og:image" content="https://i.pinimg.com/564x/7b/cf/27/7bcf270a42161ce4a58fd148ed6077db.jpg" />
+  <meta property="og:image:secure_url" content="https://i.pinimg.com/564x/7b/cf/27/7bcf270a42161ce4a58fd148ed6077db.jpg" />
+  <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:title" content="Imagining my world in the form of a video game, want to create with me? Stop by and say hi :)" />
   <meta property="og:description" content="Sims4 Not So Berry Challenge :)" />
-  <meta property="og:video:secure_url" href="https://player.twitch.tv/?volume=0.34&autoplay=true&muted&channel=joysavvy&parent=facebook.com&parent=reddit.com" />
-  <meta property="og:video:width" content="700" />
-  <meta property="og:video:height" content="400" />
+  <meta property="og:url" content="https://www.twitch.tv/joysavvy" />
+  <meta property="og:video" content="https://player.twitch.tv/?volume=0.34&autoplay=true&muted&channel=joysavvy&parent=facebook.com&parent=reddit.com" />
+  <meta property="og:video:secure_url" content="https://player.twitch.tv/?volume=0.34&autoplay=true&muted&channel=joysavvy&parent=facebook.com&parent=reddit.com" />
+  <meta property="og:video:width" content="200" />
+  <meta property="og:video:height" content="200" />
+  <meta property="og:type" content="video.other" />
 
   <meta http-equiv="refresh" content="0;url=https://www.twitch.tv/joysavvy" />
 </head>
@@ -20,5 +25,3 @@
 
 </body>
 </html>
-
-
